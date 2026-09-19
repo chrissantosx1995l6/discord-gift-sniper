@@ -28,4 +28,4 @@ Options:
 * `--log`: Path to write logs to (defaults to stdout only).
 * `--ignore-self`: Do not attempt to claim gifts sent by your own user account.
 
-<!-- checked: 2026-09-18 -->
+<!-- checked: 2026-09-19 -->
